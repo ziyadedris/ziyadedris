@@ -12,7 +12,7 @@ A browser extension built using JavaScript, HTML and CSS, with over 1,000 weekly
 [**2D Fluid Simulation**](https://github.com/ziyadedris/cpp-fluid-simulation)
 A C++ particle simulation exploring Verlet integration, spatial hashing and performance optimisation.
 
-[**AI Speech Evaluator**](ttps://github.com/ziyadedris/quran-recitation-evaluator)
+[**AI Speech Evaluator**](https://github.com/ziyadedris/quran-recitation-evaluator)
 A PyTorch-based speech evaluation model, developed through experiments with CNN architectures and audio data processing.
 
 ## Contact
